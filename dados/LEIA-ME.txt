@@ -1,0 +1,1 @@
+Envie aqui consolidado.json e consulta_estoque.json gerados pela aba Auxiliar.
